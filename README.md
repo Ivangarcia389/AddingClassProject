@@ -18,11 +18,12 @@ This project lets you define a class and insert students as objects in the class
 
 <p align="center">
 Command Line Input: <br/>
-![C++image](https://github.com/Ivangarcia389/AddingClassProject/assets/128841233/7698bc5a-ecee-4ff9-94e1-cda71a31a03c)
+![C++image](https://github.com/Ivangarcia389/AddingClassProject/assets/128841233/0b5fde81-3b0d-413a-91de-07c95b73c636)
 <br />
 <br />
 Output:  <br/>
-<![Capture](https://github.com/Ivangarcia389/AddingClassProject/assets/128841233/fb86a84c-56e1-43fa-935e-59a9fa5415bc)
+![Capture](https://github.com/Ivangarcia389/AddingClassProject/assets/128841233/f70bfa8d-e8eb-492e-9455-6ec2211d5fd1)
+
 <br />
 <br />
 
