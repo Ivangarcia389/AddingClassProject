@@ -18,11 +18,11 @@ This project lets you define a class and insert students as objects in the class
 
 <p align="center">
 Command Line Input: <br/>
-![](images/C++image.JPG)
+![C++image](https://github.com/Ivangarcia389/AddingClassProject/assets/128841233/7698bc5a-ecee-4ff9-94e1-cda71a31a03c)
 <br />
 <br />
 Output:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<![Capture](https://github.com/Ivangarcia389/AddingClassProject/assets/128841233/fb86a84c-56e1-43fa-935e-59a9fa5415bc)
 <br />
 <br />
 
